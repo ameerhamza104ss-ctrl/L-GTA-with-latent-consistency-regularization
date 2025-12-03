@@ -1,0 +1,8 @@
+# Python 3.8+ is required, but not listed in requirements.txt
+tensorflow>=2.0.0
+numpy
+pandas
+matplotlib
+scikit-learn
+scipy
+scikit-optimize
